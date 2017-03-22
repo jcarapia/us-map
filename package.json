@@ -1,0 +1,25 @@
+{
+  "name": "us-map",
+  "version": "1.0.0",
+  "description": "data and information for us national parks",
+  "main": "app.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarapia/us-map.git"
+  },
+  "author": "Jorge Carapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcarapia/us-map/issues"
+  },
+  "homepage": "https://github.com/jcarapia/us-map#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

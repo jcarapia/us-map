@@ -294,8 +294,8 @@
       // calculate the values for placing items
       var neBoxX = 860;
       var neBoxY = 220;
-      var oWidth = this.options.labelWidth;
-      var oHeight = this.options.labelHeight;
+      var oWidth = this.options.labelWidth *1.3; // increase width of label
+      var oHeight = this.options.labelHeight*1.3; // increase height of label
       var oGap = this.options.labelGap;
       var oRadius = this.options.labelRadius;
       
